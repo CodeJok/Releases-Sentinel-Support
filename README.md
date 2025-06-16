@@ -94,7 +94,7 @@ Includes bot previews, feature breakdowns, and styling examples.
 Built with ❤️ by the **ModGuard Development Team**  
 Website by **Plex, Frosty**
 Bot Made By **Plex**
-Special thanks to all early supporters & testers
+ Also Special thanks to all early supporters & testers
 
 
 
