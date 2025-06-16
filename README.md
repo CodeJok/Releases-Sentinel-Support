@@ -74,12 +74,13 @@ You can fine-tune every aspect of ModGuard using commands or the upcoming **Web 
 We're just getting started! Here's what's planned:
 
 - [x] Slash command support
-- [x] AutoMod core
-- [x] Ticket system with logs
-- [x] Application handling
-- [ ] Web dashboard (IN DEVELOPMENT)
+- [x] Moderation Commands
+- [x] Logging Channels!
+- [x] Automatic Moderation
+- [x] Brings you a cookie!
+- [ ] Web dashboard (Maybe Coming Soon)
 - [ ] Premium features (planned)
-- [ ] Multi-language support
+- [x] More  Coming soon
 
 ## 🌐 Website
 
