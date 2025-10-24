@@ -1,14 +1,14 @@
-# ✨ ModGuard Bot — Next-Gen Moderation & Utility System ✨
+# ✨ Sentinel Bot — Next-Gen Moderation & Utility System ✨
 
-Welcome to the official GitHub repository for **ModGuard**, the advanced **Discord moderation and support bot** designed with simplicity, power, and professionalism in mind.
+Welcome to the official GitHub repository for **Sentinel**, the advanced **Discord moderation and support bot** designed with simplicity, power, and professionalism in mind.
 
-> **🎯 Built by experts. Trusted by professionals. ModGuard is here to redefine your server management.**
+> **🎯 Built by experts. Trusted by professionals. Sentinel is here to redefine your server management.**
 
 
 
 ## ✨ Features
 
-ModGuard is packed with powerful tools and utilities to help you keep your server safe, efficient, and well-moderated. Below are some of the standout features:
+Sentinel is packed with powerful tools and utilities to help you keep your server safe, efficient, and well-moderated. Below are some of the standout features:
 
 ### 🛡️ Moderation Tools
 - `/ban`, `/kick`, `/mute`, `/warn`, `/unmute`, and more
