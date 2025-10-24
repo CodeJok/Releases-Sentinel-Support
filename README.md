@@ -28,9 +28,9 @@ Sentinel is packed with powerful tools and utilities to help you keep your serve
 - Detailed permission control for all commands
 - Logging toggles & channel assignment
 
-## 💡 Why Choose ModGuard?
+## 💡 Why Choose Sentinel?
 
-ModGuard was built by developers and high-end administrative professionals with **years of experience in server operations, development, and user security**. We prioritize:
+Sentinel was built by developers and high-end administrative professionals with **years of experience in server operations, development, and user security**. We prioritize:
 
 - ✅ **Honesty**
 - ✅ **Integrity**
